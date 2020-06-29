@@ -239,5 +239,5 @@ function getRowItem(carData) {
     sunRoof.innerText = carData.isSunRoof
     row.appendChild(sunRoof)
     return row
-
 }
+
